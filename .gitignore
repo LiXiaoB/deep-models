@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Customization
+deep_models/dataset/
+deep_models/pyscript/
